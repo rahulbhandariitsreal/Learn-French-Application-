@@ -8,7 +8,7 @@ Repository Contents
 Getting Started
 To use the language learning app, you will need to follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/yourusername/languagelearningapp.git.
+Clone this repository to your local machine using git clone given above
 Open the project in your Java IDE (such as Eclipse or IntelliJ IDEA).
 Build the project and run the main class to start the app.
 Contributing
